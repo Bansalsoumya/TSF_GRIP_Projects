@@ -1,4 +1,4 @@
-The Sparks Foundation internship Project 
+The Sparks Foundation Internship Project 
 
 Task1- Prediction using Supervised Machine Learning
 
